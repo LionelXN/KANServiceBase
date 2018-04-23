@@ -1,0 +1,14 @@
+F:\WSN\KANServiceBase\KANServiceBase\Service\bin\Debug\netcoreapp2.0\DAL.dll
+F:\WSN\KANServiceBase\KANServiceBase\Service\bin\Debug\netcoreapp2.0\Entity.dll
+F:\WSN\KANServiceBase\KANServiceBase\Service\obj\Debug\netcoreapp2.0\Service.csprojResolveAssemblyReference.cache
+F:\WSN\KANServiceBase\KANServiceBase\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+F:\WSN\KANServiceBase\KANServiceBase\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+F:\WSN\KANServiceBase\KANServiceBase\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+F:\WSN\KANServiceBase\KANServiceBase\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+F:\WSN\KANServiceBase\KANServiceBase\Service\bin\Debug\netcoreapp2.0\Service.dll
+F:\WSN\KANServiceBase\KANServiceBase\Service\bin\Debug\netcoreapp2.0\Service.pdb
+F:\WSN\KANServiceBase\KANServiceBase\Service\bin\Debug\netcoreapp2.0\DAL.pdb
+F:\WSN\KANServiceBase\KANServiceBase\Service\bin\Debug\netcoreapp2.0\Entity.pdb
+F:\WSN\KANServiceBase\KANServiceBase\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+F:\WSN\KANServiceBase\KANServiceBase\Service\obj\Debug\netcoreapp2.0\Service.dll
+F:\WSN\KANServiceBase\KANServiceBase\Service\obj\Debug\netcoreapp2.0\Service.pdb

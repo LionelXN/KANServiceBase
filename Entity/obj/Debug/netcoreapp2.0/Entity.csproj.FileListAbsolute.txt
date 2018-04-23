@@ -1,0 +1,9 @@
+F:\WSN\KANServiceBase\KANServiceBase\Entity\bin\Debug\netcoreapp2.0\Entity.deps.json
+F:\WSN\KANServiceBase\KANServiceBase\Entity\bin\Debug\netcoreapp2.0\Entity.dll
+F:\WSN\KANServiceBase\KANServiceBase\Entity\obj\Debug\netcoreapp2.0\Entity.csprojResolveAssemblyReference.cache
+F:\WSN\KANServiceBase\KANServiceBase\Entity\obj\Debug\netcoreapp2.0\Entity.csproj.CoreCompileInputs.cache
+F:\WSN\KANServiceBase\KANServiceBase\Entity\obj\Debug\netcoreapp2.0\Entity.AssemblyInfoInputs.cache
+F:\WSN\KANServiceBase\KANServiceBase\Entity\obj\Debug\netcoreapp2.0\Entity.AssemblyInfo.cs
+F:\WSN\KANServiceBase\KANServiceBase\Entity\bin\Debug\netcoreapp2.0\Entity.pdb
+F:\WSN\KANServiceBase\KANServiceBase\Entity\obj\Debug\netcoreapp2.0\Entity.dll
+F:\WSN\KANServiceBase\KANServiceBase\Entity\obj\Debug\netcoreapp2.0\Entity.pdb
