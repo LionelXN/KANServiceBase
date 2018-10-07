@@ -12887,11 +12887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WSN\\KANServiceBase\\KANServiceBase\\KANServiceBase\\KANServiceBase.csproj",
+      "projectUniqueName": "F:\\WSN\\GitHub\\KANServiceBase\\KANServiceBase\\KANServiceBase.csproj",
       "projectName": "KANServiceBase",
-      "projectPath": "F:\\WSN\\KANServiceBase\\KANServiceBase\\KANServiceBase\\KANServiceBase.csproj",
+      "projectPath": "F:\\WSN\\GitHub\\KANServiceBase\\KANServiceBase\\KANServiceBase.csproj",
       "packagesPath": "C:\\Users\\吴胜男\\.nuget\\packages\\",
-      "outputPath": "F:\\WSN\\KANServiceBase\\KANServiceBase\\KANServiceBase\\obj\\",
+      "outputPath": "F:\\WSN\\GitHub\\KANServiceBase\\KANServiceBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -12912,11 +12912,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\WSN\\KANServiceBase\\KANServiceBase\\DAL\\DAL.csproj": {
-              "projectPath": "F:\\WSN\\KANServiceBase\\KANServiceBase\\DAL\\DAL.csproj"
+            "F:\\WSN\\GitHub\\KANServiceBase\\DAL\\DAL.csproj": {
+              "projectPath": "F:\\WSN\\GitHub\\KANServiceBase\\DAL\\DAL.csproj"
             },
-            "F:\\WSN\\KANServiceBase\\KANServiceBase\\Service\\Service.csproj": {
-              "projectPath": "F:\\WSN\\KANServiceBase\\KANServiceBase\\Service\\Service.csproj"
+            "F:\\WSN\\GitHub\\KANServiceBase\\Service\\Service.csproj": {
+              "projectPath": "F:\\WSN\\GitHub\\KANServiceBase\\Service\\Service.csproj"
             }
           }
         }

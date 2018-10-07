@@ -6018,11 +6018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WSN\\KANServiceBase\\KANServiceBase\\DAL\\DAL.csproj",
+      "projectUniqueName": "F:\\WSN\\GitHub\\KANServiceBase\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "F:\\WSN\\KANServiceBase\\KANServiceBase\\DAL\\DAL.csproj",
+      "projectPath": "F:\\WSN\\GitHub\\KANServiceBase\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\吴胜男\\.nuget\\packages\\",
-      "outputPath": "F:\\WSN\\KANServiceBase\\KANServiceBase\\DAL\\obj\\",
+      "outputPath": "F:\\WSN\\GitHub\\KANServiceBase\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -6043,8 +6043,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\WSN\\KANServiceBase\\KANServiceBase\\Entity\\Entity.csproj": {
-              "projectPath": "F:\\WSN\\KANServiceBase\\KANServiceBase\\Entity\\Entity.csproj"
+            "F:\\WSN\\GitHub\\KANServiceBase\\Entity\\Entity.csproj": {
+              "projectPath": "F:\\WSN\\GitHub\\KANServiceBase\\Entity\\Entity.csproj"
             }
           }
         }
